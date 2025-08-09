@@ -5,11 +5,11 @@ const AboutMeText = () => {
     <div className="flex flex-col md:items-start sm:items-center md:text-left sm:text-center">
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
       <p>
-        Iam Hamza, a front-end web developer with a strong passion for creating
+        I am Hamza, a front-end web developer with a strong passion for creating
         visually appealing and user-friendly web applications &amp; websites.
       </p>
       <p>
-        I have also gained a slid foundation in HTML, CSS, JavaScript, Iam
+        I have also gained a solid foundation in HTML, CSS, JavaScript, and I am
         always technologies and techniques to enhance my skills.
       </p>
       <div className="flex flex-row md:items-start sm:items-center mt-10 gap-4">

@@ -14,7 +14,7 @@ const HeroPic = () => {
       <img
         src="/images/HexaPic.png"
         alt="Hamza Mahmoud"
-        className="max-h-[600px] w-auto"
+        className="max-h-[550px] w-auto pb-[120px]"
       />
 
       <div className=" absolute -z-10 flex justify-center items-center animate-pulse ">
