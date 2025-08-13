@@ -8,6 +8,7 @@ import { FaBootstrap } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import { FaGit } from "react-icons/fa";
 
 const skills = [
   {
@@ -42,8 +43,11 @@ const skills = [
     skill: "TailwindCSS",
     icon: RiTailwindCssFill,
   },
+  {
+    skill: "Git",
+    icon: FaGit,
+  },
 ];
-
 const AllSkillsSM = () => {
   return (
     <div className="grid md:grid-cols-4 sm:grid-cols-2 gap-12 my-12">
