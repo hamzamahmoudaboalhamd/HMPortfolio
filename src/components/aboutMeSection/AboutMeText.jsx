@@ -25,18 +25,16 @@ const AboutMeText = () => {
             My Projects
           </button>
         </Link>
-        <Link
-          spy={true}
-          smooth={true}
-          duration={500}
-          offset={-120}
-          to="#"
+        <a
+          href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:490d5990-2119-4eae-9a78-c047c93d8f6b"
+          target="_blank"
+          rel="noopener noreferrer"
           className="cursor-pointer text-white hover:text-cyan transition-all duration-500"
         >
           <button className="bg-orange  border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-darkBrown transition-all duration-500 cursor-pointer md:self-start sm:self-center">
             My CV
           </button>
-        </Link>
+        </a>
       </div>
     </div>
   );
