@@ -12,11 +12,11 @@ const projects = [
     link: "https://hamzamahmoudaboalhamd.github.io/Lila-Store/",
   },
   {
-    name: "Educational Website",
+    name: "Fylo Landing Page",
     year: "Sept2023",
     align: "left",
-    image: "/images/website-img-2.png",
-    link: "https://hamzamahmoudaboalhamd.github.io/Educational-Website/",
+    image: "/images/fylo.png",
+    link: "https://tailwind-react-two.vercel.app/",
   },
   {
     name: "Dash Bord",
