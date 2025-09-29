@@ -10,7 +10,7 @@ const ContactInfo = () => {
         text="aboaihamdhamzamahmoud123@gmail.com"
         Image={HiOutlineMail}
       />
-      <SingleInfo text="+20 1127864364" Image={FiPhone} />
+      <SingleInfo text="+20 1108703326" Image={FiPhone} />
       <SingleInfo text="Sohag, Egypt" Image={IoLocationOutline} />
     </div>
   );
