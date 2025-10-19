@@ -26,6 +26,7 @@ const AboutMeText = () => {
           </button>
         </Link>
         <a
+          // link cv
           href="https://drive.google.com/file/d/1Ym3CHhFJxDDqjgyPeYBQ2VhDRROnjJC5/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
