@@ -26,7 +26,7 @@ const AboutMeText = () => {
           </button>
         </Link>
         <a
-          href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:490d5990-2119-4eae-9a78-c047c93d8f6b"
+          href="https://drive.google.com/file/d/1Ym3CHhFJxDDqjgyPeYBQ2VhDRROnjJC5/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="cursor-pointer text-white hover:text-cyan transition-all duration-500"
