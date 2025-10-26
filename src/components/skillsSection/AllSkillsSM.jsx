@@ -9,6 +9,7 @@ import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 import { FaGit } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 const skills = [
   {
@@ -46,6 +47,10 @@ const skills = [
   {
     skill: "Git",
     icon: FaGit,
+  },
+  {
+    skill: "GitHub",
+    icon: FaGithub,
   },
 ];
 const AllSkillsSM = () => {
